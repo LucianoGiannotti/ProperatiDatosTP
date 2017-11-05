@@ -1,6 +1,7 @@
 # csv files
-*.csv
-
+metastore_db/*
+data/*
+Worldclouds_descrip/__pycache__/
 # Created by https://www.gitignore.io/api/python
 
 ### Python ###
